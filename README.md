@@ -22,3 +22,7 @@ DiningPhilosophersProblem
 对于可能产生的死锁问题，我们这里采用其中一种解决办法，那就是只有当哲学接的左右两只筷子均处于可用状态时，才允许他拿起筷子。这样就可以避免他们同时拿起筷子就餐，导致死锁。
 
 其他解法：服务生解法 资源分级解法 Chandy/Misra解法
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/DIYgod/diningphilosophersproblem/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
